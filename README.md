@@ -1,6 +1,7 @@
 # FRACTOL
 
-This project consists to create a small fractal exploration software.
+This project consists to create a small fractal exploration software
+
 [What is a Fractal ?](https://en.wikipedia.org/wiki/Fractal)
 
 ### Installing
