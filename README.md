@@ -1,4 +1,4 @@
-# FDF - WIREFRAME
+# FRACTOL
 
 This project consists to create a graphical representation of a land by wireframe("Fil De Fer - FDF" in French) by connecting different points (x, y, z) by segments.
 The land will be stocked in a file passed in parameters.
@@ -43,13 +43,13 @@ KEYS | DESCRIPTION
 `4/5/6` | Color
 `I/J` | Iteration
 `+ / -` | Zoom
-`Space` | Only available on Julia
+`Space` | Only available for Julia
 `Mouse` | DeepZoom/Hover after pressed space on Julia
 `R` | Reset
 
 ### Example
 
-![fractol_Julia](./fractol.png "fractol_Julia")
+![fractol_mandelbrot](./fractol.png "fractol_mandelbrot")
 
 ### Deployment
 
