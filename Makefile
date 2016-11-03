@@ -6,7 +6,7 @@
 #    By: nrandria <nrandria@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/11/27 11:23:48 by nrandria          #+#    #+#              #
-#    Updated: 2016/10/26 19:45:09 by nrandria         ###   ########.fr        #
+#    Updated: 2016/11/03 17:15:30 by nrandria         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -29,7 +29,7 @@ OBJ_PATH	=	obj/
 
 INCLUDE 	= -Iinclude -Ilibft/include
 
-LDFLAGS		=	-Llibft
+LDFLAGS		=	-Llibft -Lminilibx
 LDLIBS 		= -lft
 
 NAME 			=	fractol
