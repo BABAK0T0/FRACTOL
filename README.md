@@ -1,7 +1,7 @@
 # FRACTOL
 
-This project consists to create a graphical representation of a land by wireframe("Fil De Fer - FDF" in French) by connecting different points (x, y, z) by segments.
-The land will be stocked in a file passed in parameters.
+This project consists to create a small fractal exploration software.
+[What is a Fractal ?](https://en.wikipedia.org/wiki/Fractal)
 
 ### Installing
 
