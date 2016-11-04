@@ -6,7 +6,7 @@
 #    By: nrandria <nrandria@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/11/27 11:23:48 by nrandria          #+#    #+#              #
-#    Updated: 2016/11/03 17:15:30 by nrandria         ###   ########.fr        #
+#    Updated: 2016/11/04 01:49:43 by nrandria         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -27,7 +27,7 @@ SRC_NAME = src/fractol.c			\
 
 OBJ_PATH	=	obj/
 
-INCLUDE 	= -Iinclude -Ilibft/include
+INCLUDE 	= -Iinclude -Ilibft/includes
 
 LDFLAGS		=	-Llibft -Lminilibx
 LDLIBS 		= -lft
