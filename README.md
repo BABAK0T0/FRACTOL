@@ -20,6 +20,12 @@ make re
 
 ### Running
 
+An executable is available in deposit, if you can't `make` the Makefile
+
+```
+chmod u+x fractol
+```
+
 Choose a fractal :
 * mandelbrot
 * julia
