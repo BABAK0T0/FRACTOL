@@ -6,6 +6,8 @@ This project consists to create a small fractal exploration software
 
 ### Installing
 
+Take a look to `Minilibx/README.md` to install `Minilibx`
+
 Clone the project
 
 ```
