@@ -67,5 +67,5 @@ Develop for UNIX systems
 
 ### Built With
 
-* [Minilibx] - The framework for graphical user interface development
+* [Minilibx] - The framework for graphical user interface development made by [42](https://www.42.fr/)
 
